@@ -1,0 +1,247 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="13" passed="11" failed="1" skipped="1">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2025-11-18T22:33:44 IST" name="Suite" finished-at="2025-11-18T22:33:44 IST" duration-ms="150">
+    <groups>
+    </groups>
+    <test started-at="2025-11-18T22:33:44 IST" name="Test" finished-at="2025-11-18T22:33:44 IST" duration-ms="150">
+      <class name="testNGWithPlayWright.TestCase2">
+        <test-method is-config="true" signature="beforeMethod()[pri:0, instance:testNGWithPlayWright.TestCase2@2ca923bb]" started-at="2025-11-18T22:33:44 IST" name="beforeMethod" finished-at="2025-11-18T22:33:44 IST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method is-config="true" signature="beforeClass()[pri:0, instance:testNGWithPlayWright.TestCase2@2ca923bb]" started-at="2025-11-18T22:33:44 IST" name="beforeClass" finished-at="2025-11-18T22:33:44 IST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeClass -->
+        <test-method signature="test1()[pri:1, instance:testNGWithPlayWright.TestCase2@2ca923bb]" started-at="2025-11-18T22:33:44 IST" name="test1" description="Test1" finished-at="2025-11-18T22:33:44 IST" duration-ms="2" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test1 -->
+        <test-method is-config="true" signature="afterMethod()[pri:0, instance:testNGWithPlayWright.TestCase2@2ca923bb]" started-at="2025-11-18T22:33:44 IST" name="afterMethod" finished-at="2025-11-18T22:33:44 IST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+        <test-method is-config="true" signature="beforeMethod()[pri:0, instance:testNGWithPlayWright.TestCase2@2ca923bb]" started-at="2025-11-18T22:33:44 IST" name="beforeMethod" finished-at="2025-11-18T22:33:44 IST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method signature="test2()[pri:2, instance:testNGWithPlayWright.TestCase2@2ca923bb]" started-at="2025-11-18T22:33:44 IST" name="test2" description="Test2" finished-at="2025-11-18T22:33:44 IST" duration-ms="2" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test2 -->
+        <test-method is-config="true" signature="afterMethod()[pri:0, instance:testNGWithPlayWright.TestCase2@2ca923bb]" started-at="2025-11-18T22:33:44 IST" name="afterMethod" finished-at="2025-11-18T22:33:44 IST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+        <test-method signature="LaunchRediff()[pri:3, instance:testNGWithPlayWright.TestCase2@2ca923bb]" started-at="2025-11-18T22:33:44 IST" name="LaunchRediff" description="Launch Chrome" finished-at="2025-11-18T22:33:44 IST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- LaunchRediff -->
+        <test-method is-config="true" signature="beforeMethod()[pri:0, instance:testNGWithPlayWright.TestCase2@2ca923bb]" started-at="2025-11-18T22:33:44 IST" name="beforeMethod" finished-at="2025-11-18T22:33:44 IST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method is-config="true" signature="afterMethod()[pri:0, instance:testNGWithPlayWright.TestCase2@2ca923bb]" started-at="2025-11-18T22:33:44 IST" name="afterMethod" finished-at="2025-11-18T22:33:44 IST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+        <test-method signature="LoginRediff()[pri:4, instance:testNGWithPlayWright.TestCase2@2ca923bb]" started-at="2025-11-18T22:33:44 IST" name="LoginRediff" description="Login Rediff" finished-at="2025-11-18T22:33:44 IST" duration-ms="2" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- LoginRediff -->
+        <test-method is-config="true" signature="beforeMethod()[pri:0, instance:testNGWithPlayWright.TestCase2@2ca923bb]" started-at="2025-11-18T22:33:44 IST" name="beforeMethod" finished-at="2025-11-18T22:33:44 IST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method is-config="true" signature="afterMethod()[pri:0, instance:testNGWithPlayWright.TestCase2@2ca923bb]" started-at="2025-11-18T22:33:44 IST" name="afterMethod" finished-at="2025-11-18T22:33:44 IST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+        <test-method signature="CloseRediff()[pri:5, instance:testNGWithPlayWright.TestCase2@2ca923bb]" started-at="2025-11-18T22:33:44 IST" name="CloseRediff" description="Close Browser" finished-at="2025-11-18T22:33:44 IST" duration-ms="2" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- CloseRediff -->
+        <test-method is-config="true" signature="beforeMethod()[pri:0, instance:testNGWithPlayWright.TestCase2@2ca923bb]" started-at="2025-11-18T22:33:44 IST" name="beforeMethod" finished-at="2025-11-18T22:33:44 IST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method is-config="true" signature="afterMethod()[pri:0, instance:testNGWithPlayWright.TestCase2@2ca923bb]" started-at="2025-11-18T22:33:44 IST" name="afterMethod" finished-at="2025-11-18T22:33:44 IST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+        <test-method is-config="true" signature="afterClass()[pri:0, instance:testNGWithPlayWright.TestCase2@2ca923bb]" started-at="2025-11-18T22:33:44 IST" name="afterClass" finished-at="2025-11-18T22:33:44 IST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterClass -->
+      </class> <!-- testNGWithPlayWright.TestCase2 -->
+      <class name="testNGWithPlayWright.TestCase1">
+        <test-method is-config="true" signature="beforetest()[pri:0, instance:testNGWithPlayWright.TestCase1@70e38ce1]" started-at="2025-11-18T22:33:44 IST" name="beforetest" finished-at="2025-11-18T22:33:44 IST" duration-ms="14" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforetest -->
+        <test-method is-config="true" signature="beforeClass()[pri:0, instance:testNGWithPlayWright.TestCase1@70e38ce1]" started-at="2025-11-18T22:33:44 IST" name="beforeClass" finished-at="2025-11-18T22:33:44 IST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeClass -->
+        <test-method is-config="true" signature="beforeMethod()[pri:0, instance:testNGWithPlayWright.TestCase1@70e38ce1]" started-at="2025-11-18T22:33:44 IST" name="beforeMethod" finished-at="2025-11-18T22:33:44 IST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method signature="test1()[pri:1, instance:testNGWithPlayWright.TestCase1@70e38ce1]" started-at="2025-11-18T22:33:44 IST" name="test1" description="Test1" finished-at="2025-11-18T22:33:44 IST" duration-ms="3" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test1 -->
+        <test-method is-config="true" signature="afterMethod()[pri:0, instance:testNGWithPlayWright.TestCase1@70e38ce1]" started-at="2025-11-18T22:33:44 IST" name="afterMethod" finished-at="2025-11-18T22:33:44 IST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+        <test-method signature="test2()[pri:2, instance:testNGWithPlayWright.TestCase1@70e38ce1]" started-at="2025-11-18T22:33:44 IST" name="test2" description="Test2" finished-at="2025-11-18T22:33:44 IST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test2 -->
+        <test-method is-config="true" signature="beforeMethod()[pri:0, instance:testNGWithPlayWright.TestCase1@70e38ce1]" started-at="2025-11-18T22:33:44 IST" name="beforeMethod" finished-at="2025-11-18T22:33:44 IST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method is-config="true" signature="afterMethod()[pri:0, instance:testNGWithPlayWright.TestCase1@70e38ce1]" started-at="2025-11-18T22:33:44 IST" name="afterMethod" finished-at="2025-11-18T22:33:44 IST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+        <test-method is-config="true" signature="beforeMethod()[pri:0, instance:testNGWithPlayWright.TestCase1@70e38ce1]" started-at="2025-11-18T22:33:44 IST" name="beforeMethod" finished-at="2025-11-18T22:33:44 IST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method signature="LaunchRediff()[pri:3, instance:testNGWithPlayWright.TestCase1@70e38ce1]" started-at="2025-11-18T22:33:44 IST" name="LaunchRediff" description="Launch Chrome" finished-at="2025-11-18T22:33:44 IST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- LaunchRediff -->
+        <test-method is-config="true" signature="afterMethod()[pri:0, instance:testNGWithPlayWright.TestCase1@70e38ce1]" started-at="2025-11-18T22:33:44 IST" name="afterMethod" finished-at="2025-11-18T22:33:44 IST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+        <test-method is-config="true" signature="beforeMethod()[pri:0, instance:testNGWithPlayWright.TestCase1@70e38ce1]" started-at="2025-11-18T22:33:44 IST" name="beforeMethod" finished-at="2025-11-18T22:33:44 IST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method signature="LoginRediff()[pri:4, instance:testNGWithPlayWright.TestCase1@70e38ce1]" started-at="2025-11-18T22:33:44 IST" name="LoginRediff" description="Login Rediff" finished-at="2025-11-18T22:33:44 IST" duration-ms="2" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- LoginRediff -->
+        <test-method is-config="true" signature="afterMethod()[pri:0, instance:testNGWithPlayWright.TestCase1@70e38ce1]" started-at="2025-11-18T22:33:44 IST" name="afterMethod" finished-at="2025-11-18T22:33:44 IST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+        <test-method signature="CloseRediff()[pri:5, instance:testNGWithPlayWright.TestCase1@70e38ce1]" started-at="2025-11-18T22:33:44 IST" name="CloseRediff" description="Close Browser" finished-at="2025-11-18T22:33:44 IST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- CloseRediff -->
+        <test-method is-config="true" signature="beforeMethod()[pri:0, instance:testNGWithPlayWright.TestCase1@70e38ce1]" started-at="2025-11-18T22:33:44 IST" name="beforeMethod" finished-at="2025-11-18T22:33:44 IST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method is-config="true" signature="afterMethod()[pri:0, instance:testNGWithPlayWright.TestCase1@70e38ce1]" started-at="2025-11-18T22:33:44 IST" name="afterMethod" finished-at="2025-11-18T22:33:44 IST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+        <test-method is-config="true" signature="afterClass()[pri:0, instance:testNGWithPlayWright.TestCase1@70e38ce1]" started-at="2025-11-18T22:33:44 IST" name="afterClass" finished-at="2025-11-18T22:33:44 IST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterClass -->
+        <test-method is-config="true" signature="AfterTest()[pri:0, instance:testNGWithPlayWright.TestCase1@70e38ce1]" started-at="2025-11-18T22:33:44 IST" name="AfterTest" finished-at="2025-11-18T22:33:44 IST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- AfterTest -->
+      </class> <!-- testNGWithPlayWright.TestCase1 -->
+      <class name="extentReportsDemo.DemoOnExtentReport">
+        <test-method signature="doLogin()[pri:0, instance:extentReportsDemo.DemoOnExtentReport@6cc4cdb9]" started-at="2025-11-18T22:33:44 IST" name="doLogin" finished-at="2025-11-18T22:33:44 IST" duration-ms="10" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- doLogin -->
+        <test-method signature="doUserReg()[pri:0, instance:extentReportsDemo.DemoOnExtentReport@6cc4cdb9]" started-at="2025-11-18T22:33:44 IST" name="doUserReg" finished-at="2025-11-18T22:33:44 IST" duration-ms="4" status="FAIL">
+          <exception class="java.lang.AssertionError">
+            <message>
+              <![CDATA[null]]>
+            </message>
+            <full-stacktrace>
+              <![CDATA[java.lang.AssertionError: null
+at org.testng.Assert.fail(Assert.java:111)
+at org.testng.Assert.fail(Assert.java:116)
+at extentReportsDemo.DemoOnExtentReport.doUserReg(DemoOnExtentReport.java:63)
+at java.base/jdk.internal.reflect.DirectMethodHandleAccessor.invoke(DirectMethodHandleAccessor.java:103)
+at java.base/java.lang.reflect.Method.invoke(Method.java:580)
+at org.testng.internal.invokers.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:141)
+at org.testng.internal.invokers.TestInvoker.invokeMethod(TestInvoker.java:687)
+at org.testng.internal.invokers.TestInvoker.invokeTestMethod(TestInvoker.java:230)
+at org.testng.internal.invokers.MethodRunner.runInSequence(MethodRunner.java:63)
+at org.testng.internal.invokers.TestInvoker$MethodInvocationAgent.invoke(TestInvoker.java:995)
+at org.testng.internal.invokers.TestInvoker.invokeTestMethods(TestInvoker.java:203)
+at org.testng.internal.invokers.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:154)
+at org.testng.internal.invokers.TestMethodWorker.run(TestMethodWorker.java:134)
+at java.base/java.util.ArrayList.forEach(ArrayList.java:1596)
+at org.testng.TestRunner.privateRun(TestRunner.java:741)
+at org.testng.TestRunner.run(TestRunner.java:616)
+at org.testng.SuiteRunner.runTest(SuiteRunner.java:421)
+at org.testng.SuiteRunner.runSequentially(SuiteRunner.java:413)
+at org.testng.SuiteRunner.privateRun(SuiteRunner.java:373)
+at org.testng.SuiteRunner.run(SuiteRunner.java:312)
+at org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:52)
+at org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:95)
+at org.testng.TestNG.runSuitesSequentially(TestNG.java:1274)
+at org.testng.TestNG.runSuitesLocally(TestNG.java:1208)
+at org.testng.TestNG.runSuites(TestNG.java:1112)
+at org.testng.TestNG.run(TestNG.java:1079)
+at org.testng.remote.AbstractRemoteTestNG.run(AbstractRemoteTestNG.java:115)
+at org.testng.remote.RemoteTestNG.initAndRun(RemoteTestNG.java:293)
+at org.testng.remote.RemoteTestNG.main(RemoteTestNG.java:91)
+]]>
+            </full-stacktrace>
+          </exception> <!-- java.lang.AssertionError -->
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- doUserReg -->
+        <test-method signature="skipTest()[pri:0, instance:extentReportsDemo.DemoOnExtentReport@6cc4cdb9]" started-at="2025-11-18T22:33:44 IST" name="skipTest" finished-at="2025-11-18T22:33:44 IST" duration-ms="2" status="SKIP">
+          <exception class="org.testng.SkipException">
+            <message>
+              <![CDATA[Skipping the test]]>
+            </message>
+            <full-stacktrace>
+              <![CDATA[org.testng.SkipException: Skipping the test
+at extentReportsDemo.DemoOnExtentReport.skipTest(DemoOnExtentReport.java:72)
+at java.base/jdk.internal.reflect.DirectMethodHandleAccessor.invoke(DirectMethodHandleAccessor.java:103)
+at java.base/java.lang.reflect.Method.invoke(Method.java:580)
+at org.testng.internal.invokers.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:141)
+at org.testng.internal.invokers.TestInvoker.invokeMethod(TestInvoker.java:687)
+at org.testng.internal.invokers.TestInvoker.invokeTestMethod(TestInvoker.java:230)
+at org.testng.internal.invokers.MethodRunner.runInSequence(MethodRunner.java:63)
+at org.testng.internal.invokers.TestInvoker$MethodInvocationAgent.invoke(TestInvoker.java:995)
+at org.testng.internal.invokers.TestInvoker.invokeTestMethods(TestInvoker.java:203)
+at org.testng.internal.invokers.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:154)
+at org.testng.internal.invokers.TestMethodWorker.run(TestMethodWorker.java:134)
+at java.base/java.util.ArrayList.forEach(ArrayList.java:1596)
+at org.testng.TestRunner.privateRun(TestRunner.java:741)
+at org.testng.TestRunner.run(TestRunner.java:616)
+at org.testng.SuiteRunner.runTest(SuiteRunner.java:421)
+at org.testng.SuiteRunner.runSequentially(SuiteRunner.java:413)
+at org.testng.SuiteRunner.privateRun(SuiteRunner.java:373)
+at org.testng.SuiteRunner.run(SuiteRunner.java:312)
+at org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:52)
+at org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:95)
+at org.testng.TestNG.runSuitesSequentially(TestNG.java:1274)
+at org.testng.TestNG.runSuitesLocally(TestNG.java:1208)
+at org.testng.TestNG.runSuites(TestNG.java:1112)
+at org.testng.TestNG.run(TestNG.java:1079)
+at org.testng.remote.AbstractRemoteTestNG.run(AbstractRemoteTestNG.java:115)
+at org.testng.remote.RemoteTestNG.initAndRun(RemoteTestNG.java:293)
+at org.testng.remote.RemoteTestNG.main(RemoteTestNG.java:91)
+]]>
+            </full-stacktrace>
+          </exception> <!-- org.testng.SkipException -->
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- skipTest -->
+      </class> <!-- extentReportsDemo.DemoOnExtentReport -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>

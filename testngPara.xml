@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="Suite">
+<listeners>
+<listener class-name="list.TestNGListener"></listener>
+</listeners>
+  <test thread-count="5" name="Test">
+  <parameter name="con_string" value="path to connect Oracle"></parameter>
+  <parameter name="un" value="admin"></parameter>
+  <parameter name="pwd" value="admin123"></parameter>
+    <classes>
+      <class name="para.VerifyInsert"/>
+      <class name="para.VerifyUpdate"/>
+      <class name="testNGWithPlayWright.TestCase1"/>
+      <class name="testNGWithPlayWright.TestCase2"/>
+       <class name="list.Test1"/>
+    </classes>
+  </test> <!-- Test -->
+</suite> <!-- Suite -->

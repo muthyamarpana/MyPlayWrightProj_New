@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="Suite">
+  <test thread-count="5" name="Test">
+    <classes>
+      <class name="testNGWithPlayWright.TestCase1"/>
+      <class name="testNGWithPlayWright.TestCase2"/>
+      <class name="testNGWithPlayWright.HandlingDropDownList"/>
+      <class name="testNGWithPlayWright.AssertExp"/>
+      <class name="testNGWithPlayWright.DP_Exp"/>
+      <class name="testNGWithPlayWright.HandlingMouseHoverActions"/>
+      <class name="testNGWithPlayWright.HandlingLinks"/>
+      <class name="testNGWithPlayWright.AssertFail"/>
+    </classes>
+  </test> <!-- Test -->
+</suite> <!-- Suite -->
